@@ -14,8 +14,6 @@ Este proyecto contiene dos tipos de servidores:
 ```
 src/
 ├── main/java/org/arsw/
-│   ├── EchoServer.java      # Servidor de eco simple
-│   ├── EchoClient.java      # Cliente para el servidor de eco
 │   ├── MathServer.java      # Servidor de operaciones matemáticas
 │   └── MathClient.java      # Cliente para el servidor matemático
 └── test/java/               # Directorio para pruebas
